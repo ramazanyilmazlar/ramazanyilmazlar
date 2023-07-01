@@ -1,4 +1,4 @@
-![MasterHead](https://wenajans.com/images/kurumsalyazilimgelistirme/yazilim-kapak.jpg)
+![MasterHead](https://static.vecteezy.com/system/resources/previews/000/680/516/original/digital-circuit-design-on-a-dark-blue-background.jpg)
 <h1 align="center">Hi 👋, I'm Ramazan YILMAZLAR</h1>
 <h3 align="center">A passionate student and developer from Turkiye</h3>
 
