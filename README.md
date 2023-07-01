@@ -1,4 +1,4 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/000/680/516/original/digital-circuit-design-on-a-dark-blue-background.jpg)
+![MasterHead](https://img.freepik.com/premium-vector/vector-technology-circuit-board-design-dark-blue-color-background_43778-620.jpg?w=360)
 <h1 align="center">Hi 👋, I'm Ramazan YILMAZLAR</h1>
 <h3 align="center">A passionate student and developer from Turkiye</h3>
 
