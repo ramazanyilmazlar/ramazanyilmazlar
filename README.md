@@ -1,4 +1,4 @@
-![MasterHead](https://wenajans.com/images/kodlamaegitimi/kodlama-egitimi-kapak.jpg)
+![MasterHead](https://wenajans.com/images/kurumsalyazilimgelistirme/yazilim-kapak.jpg)
 <h1 align="center">Hi 👋, I'm Ramazan YILMAZLAR</h1>
 <h3 align="center">A passionate student and developer from Turkiye</h3>
 
