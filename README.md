@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/premium-vector/vector-technology-circuit-board-design-dark-blue-color-background_43778-620.jpg?w=360)
+![MasterHead](https://www.bechtle.com/dam/jcr:5d5c040e-39dc-4acf-9aee-25a90e7c1a11/kuenstliche_intelligenz_bechtle.com_main_01.png)
 <h1 align="center">Hi 👋, I'm Ramazan YILMAZLAR</h1>
 <h3 align="center">A passionate student and developer from Turkiye</h3>
 
