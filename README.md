@@ -1,4 +1,4 @@
-![MasterHead](https://wenajans.com/images/kurumsalyazilimgelistirme/yazilim-kapak.jpg)
+![MasterHead](https://www.armadigital.com.tr/Upload/Dosyalar/resim-jpg/web-programlama-478691a1-edec-4a88-8e91-fc46a4a22ac6.jpg?kirp=ok&format=webx&quality=80)
 <h1 align="center">Hi 👋, I'm Ramazan YILMAZLAR</h1>
 <h3 align="center">A passionate student and developer from Turkiye</h3>
 
