@@ -1,4 +1,4 @@
-![MasterHead](https://www.bechtle.com/dam/jcr:5d5c040e-39dc-4acf-9aee-25a90e7c1a11/kuenstliche_intelligenz_bechtle.com_main_01.png)
+![MasterHead](https://hellofuture.orange.com/app/uploads/2018/01/Intro-HELLO-FUTURE-1920x1080_v2.gif)
 <h1 align="center">Hi 👋, I'm Ramazan YILMAZLAR</h1>
 <h3 align="center">A passionate student and developer from Turkiye</h3>
 
